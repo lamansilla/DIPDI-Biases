@@ -1,7 +1,6 @@
 __pycache__
 .pytest_cache
 *.egg-info
-models
-!scripts/models
-notebooks
-tests
+trained_models
+results_imdb
+synthetic
